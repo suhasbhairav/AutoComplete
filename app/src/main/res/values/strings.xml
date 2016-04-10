@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AutoComplete</string>
+    <string-array name="country_names">
+        <item>India</item>
+        <item>Sri Lanka</item>
+        <item>Germany</item>
+        <item>Switzerland</item>
+    </string-array>
+
+    <string-array name="state_names">
+        <item>Karnataka</item>
+        <item>Tamil Nadu</item>
+        <item>Andhra Pradesh</item>
+        <item>Gujarat</item>
+    </string-array>
+
+</resources>
